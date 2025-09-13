@@ -57,3 +57,9 @@ uv run python linear_eq.py
 <img width="419" height="76" alt="スクリーンショット 2025-09-13 14 17 34" src="https://github.com/user-attachments/assets/1a02ddc7-7b42-4ac2-896a-72c9afdfd804" /></br>
 
 吸収項には「-」項を、放射項には「+」項を既存の式に追加した。
+
+### 参考文献
+- van der Kooi Casper J., Elzenga J. Theo M., Staal Marten and Stavenga Doekele G. 2016How to colour a flower: on the optical principles of flower colorationProc. R. Soc. B.28320160429
+http://doi.org/10.1098/rspb.2016.0429
+- Stavenga, D.G., van der Kooi, C.J. Coloration of the Chilean Bellflower, Nolana paradoxa, interpreted with a scattering and absorbing layer stack model. Planta 243, 171–181 (2016). https://doi.org/10.1007/s00425-015-2395-0
+- 山田 範秀, 藤村 貞夫, 葉の分光反射率および分光透過率と葉内クロロフィル量との関係, 計測自動制御学会論文集, 1988, 24 巻, 5 号, p. 438-444, 公開日 2009/03/27, Online ISSN 1883-8189, Print ISSN 0453-4654, https://doi.org/10.9746/sicetr1965.24.438
