@@ -1,3 +1,12 @@
+<table>
+	<thead>
+    	<tr>
+      		<th style="text-align:center">日本語</th>
+      		<th style="text-align:center"><a href="README_en.md">English</a></th>
+    	</tr>
+  	</thead>
+</table>
+
 ### What is this?
 - Sample code for [VSJ2025 Summer](https://sites.google.com/view/vsj2025summer/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0?authuser=0) Poster 2p38.
 
